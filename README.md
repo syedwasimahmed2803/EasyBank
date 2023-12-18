@@ -4,4 +4,4 @@
 
 ## Deployed Link
 
-![Link:](https://easy-bank-three-green.vercel.app/)
+[Link](https://easy-bank-three-green.vercel.app/)
