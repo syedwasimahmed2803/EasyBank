@@ -432,6 +432,7 @@
     font-size: 1rem;
     margin-right: 20vw;
     align-items: start;
+    margin-top: 2rem;
   }
   .hyperlinks {
     margin-right: 5vw;
@@ -453,6 +454,14 @@
   .footer-icons {
     padding: 5px;
     width: 2.3rem;
+  }
+  .btn-container {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+  .copyright {
+    margin-right: 0;
   }
 }
 @media only screen and (min-width: 1850px) {
