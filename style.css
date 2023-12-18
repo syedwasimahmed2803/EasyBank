@@ -164,6 +164,7 @@
 .Articles {
   text-align: center;
   background-color: var(--light-grayish-blue);
+  padding-bottom: 10vh;
 }
 .article-heading {
   padding-top: 10vh;
