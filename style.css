@@ -394,8 +394,9 @@
     font-size: 0.8rem;
     color: var(--grayish-blue);
   }
-  .article-card {
-    margin: 1vw;
+
+  .card-images {
+    height: 20vh;
   }
   .article-content {
     padding-block: 2vh;
