@@ -280,11 +280,11 @@
 
   .mockup-background-desktop {
     display: flex;
-    width: 80rem;
+    width: 88rem;
     position: absolute;
     z-index: -2;
-    height: 72rem;
-    top: -16vh;
+    height: 80rem;
+    top: -22vh;
     left: 45vw;
   }
   .mockup-background {
