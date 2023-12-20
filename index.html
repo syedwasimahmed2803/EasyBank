@@ -34,8 +34,24 @@
         </ul>
       </div>
       <button class="request-button nav-btn">Request Invite</button>
-      <img class="hamburger" src="images/icon-hamburger.svg" alt="" />
+      <img
+        onclick="toggleIcons()"
+        class="hamburger"
+        src="images/icon-hamburger.svg"
+      />
+      <img onclick="toggleIcons()" class="close" src="images/icon-close.svg" />
     </nav>
+    <header id="myModal" class="modal">
+      <div class="modal-content">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Careers</a></li>
+        </ul>
+      </div>
+    </header>
     <section class="mockup-section">
       <div class="flex mockups">
         <img
@@ -242,4 +258,5 @@
       </div>
     </footer>
   </body>
+  <script src="script.js"></script>
 </html>
